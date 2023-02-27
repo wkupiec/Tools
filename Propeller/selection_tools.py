@@ -6,7 +6,8 @@ def beta2pitch(beta_max):
     :param beta_max: Maxiumum angle of the propeller blade wrt a flat plane attached to the mount
     :return: Estimated Pitch, measured in inches
     '''
-    pass
+    
+
 
 
 
